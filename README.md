@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=#b897ff&height=120&text=안녕하세요,%20장다빈입니다!&animation=&fontColor=000000&fontSize=40" />
+    안녕하세요, 장다빈입니다!
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
